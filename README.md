@@ -17,5 +17,4 @@
 11. 火红梅 蓝兰花 金黄菊 翠绿竹。
 12. 所有的牌一共5种颜色， 三原色 红绿蓝 外加 黑色 和 黄色。
 
-![image](https://user-images.githubusercontent.com/22744976/210193543-5307fa9b-1fa1-477c-9eb3-41cb016b7094.png)
 ![1672632624819_82B94163-D85D-4b49-89D4-D35B114EF630](https://user-images.githubusercontent.com/22744976/210194640-ff2b3f78-0450-4bc8-8439-6262a16834b8.png)
