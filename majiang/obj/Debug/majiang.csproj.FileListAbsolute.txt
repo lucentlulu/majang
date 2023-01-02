@@ -1,0 +1,10 @@
+G:\Source\Repos\majiang\majiang\bin\Debug\majiang.exe.config
+G:\Source\Repos\majiang\majiang\bin\Debug\majiang.exe
+G:\Source\Repos\majiang\majiang\bin\Debug\majiang.pdb
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.csprojAssemblyReference.cache
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.Form1.resources
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.Properties.Resources.resources
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.csproj.GenerateResource.cache
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.csproj.CoreCompileInputs.cache
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.exe
+G:\Source\Repos\majiang\majiang\obj\Debug\majiang.pdb

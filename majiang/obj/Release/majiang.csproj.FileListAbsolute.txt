@@ -1,0 +1,9 @@
+G:\Source\Repos\majiang\majiang\bin\Release\majiang.exe.config
+G:\Source\Repos\majiang\majiang\bin\Release\majiang.exe
+G:\Source\Repos\majiang\majiang\bin\Release\majiang.pdb
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.Form1.resources
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.Properties.Resources.resources
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.csproj.GenerateResource.cache
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.csproj.CoreCompileInputs.cache
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.exe
+G:\Source\Repos\majiang\majiang\obj\Release\majiang.pdb
