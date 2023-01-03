@@ -1,4 +1,4 @@
-# majang
+# Mahjong
 
 中国麻将
 
